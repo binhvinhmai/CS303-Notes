@@ -140,6 +140,19 @@ class Binary_Tree
         
         return -1; //didn't find the node
     }
+    
+    // Function to test whether a binary tree is a full tree
+    // Start at the root
+    // Go left
+    // If node, go left
+    // When it hits a null, go back up, return right
+    
+    bool is_full() {
+        if (root == NULL)
+            return false;
+        
+        bool 
+    }
 
 };  
 
