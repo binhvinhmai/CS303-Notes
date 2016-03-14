@@ -28,6 +28,7 @@
 		758323611C8E4B80003621B4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7583236C1C8E4C3F003621B4 /* 3-7-2016 Notes.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "3-7-2016 Notes.hpp"; sourceTree = "<group>"; };
 		7583238E1C90EAD4003621B4 /* 3-9-2016 Notes.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "3-9-2016 Notes.hpp"; sourceTree = "<group>"; };
+		75A9D3BF1C977696005BE68C /* 3-14-2016 Notes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "3-14-2016 Notes.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				758323611C8E4B80003621B4 /* main.cpp */,
 				7583236C1C8E4C3F003621B4 /* 3-7-2016 Notes.hpp */,
 				7583238E1C90EAD4003621B4 /* 3-9-2016 Notes.hpp */,
+				75A9D3BF1C977696005BE68C /* 3-14-2016 Notes.h */,
 				750FAF141C934F0300BB28F1 /* queue */,
 			);
 			path = "CS303 Notes and Code";
