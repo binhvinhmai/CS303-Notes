@@ -26,6 +26,8 @@
 		7500D90F1CA0B45600B43287 /* 3-21-2016 Notes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "3-21-2016 Notes.h"; sourceTree = "<group>"; };
 		7500D9111CA0B5F600B43287 /* Binary_Trees_Binary_Search_Trees */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Binary_Trees_Binary_Search_Trees; path = ../Binary_Trees_Binary_Search_Trees; sourceTree = "<group>"; };
 		750FAF141C934F0300BB28F1 /* queue */ = {isa = PBXFileReference; lastKnownFileType = folder; name = queue; path = ../../../../Downloads/queue; sourceTree = "<group>"; };
+		754E42DC1CB5CB2700FA1E12 /* 4-6-2016 Notes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "4-6-2016 Notes.h"; path = "../4-6-2016 Notes.h"; sourceTree = "<group>"; };
+		756AF14F1CC59B71008EEC8A /* 4-18-2016 Notes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "4-18-2016 Notes.h"; sourceTree = "<group>"; };
 		7583235E1C8E4B80003621B4 /* CS303 Notes and Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS303 Notes and Code"; sourceTree = BUILT_PRODUCTS_DIR; };
 		758323611C8E4B80003621B4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7583236C1C8E4C3F003621B4 /* 3-7-2016 Notes.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "3-7-2016 Notes.hpp"; sourceTree = "<group>"; };
@@ -68,6 +70,8 @@
 				7583238E1C90EAD4003621B4 /* 3-9-2016 Notes.hpp */,
 				75A9D3BF1C977696005BE68C /* 3-14-2016 Notes.h */,
 				7500D90F1CA0B45600B43287 /* 3-21-2016 Notes.h */,
+				754E42DC1CB5CB2700FA1E12 /* 4-6-2016 Notes.h */,
+				756AF14F1CC59B71008EEC8A /* 4-18-2016 Notes.h */,
 				7500D9111CA0B5F600B43287 /* Binary_Trees_Binary_Search_Trees */,
 				750FAF141C934F0300BB28F1 /* queue */,
 			);
